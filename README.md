@@ -18,4 +18,4 @@ See the [packet-by-packet findings](analysis/findings.md) for the filters, timin
 
 ## Publishing the evidence
 
-Keep raw `.pcap` and `.pcapng` files private. Before publishing screenshots, review them for private IP addresses, MAC addresses, internal hostnames, unrelated traffic, and raw packet bytes. This write-up uses “Mac” for the local endpoint and includes cropped screenshots of the relevant fields.
+The screenshots are cropped to protect local network details, and the raw packet capture is kept private.
